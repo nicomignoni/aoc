@@ -51,3 +51,4 @@ Solutions for (*some of*) the puzzles from [Advent of Code](https://adventofcode
 - Day 6: Tuning Trouble
 - Day 7: No Space Left On Device
 - Day 8: Treetop Tree House
+- Day 9: Rope Bridge
