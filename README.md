@@ -52,3 +52,4 @@ Solutions for (*some of*) the puzzles from [Advent of Code](https://adventofcode
 - Day 7: No Space Left On Device
 - Day 8: Treetop Tree House
 - Day 9: Rope Bridge
+- Day 10: Cathode-Ray Tube
