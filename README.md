@@ -53,3 +53,5 @@ Solutions for (*some of*) the puzzles from [Advent of Code](https://adventofcode
 - Day 8: Treetop Tree House
 - Day 9: Rope Bridge
 - Day 10: Cathode-Ray Tube
+- Day 11: Monkey in the Middle
+- Day 12: Hill Climbing Algorithm
