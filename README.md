@@ -55,3 +55,4 @@ Solutions for (*some of*) the puzzles from [Advent of Code](https://adventofcode
 - Day 10: Cathode-Ray Tube
 - Day 11: Monkey in the Middle
 - Day 12: Hill Climbing Algorithm
+- Day 13: Distress Signal
