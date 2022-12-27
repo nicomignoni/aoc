@@ -28,6 +28,12 @@ Solutions for (*some of*) the puzzles from [Advent of Code](https://adventofcode
 - Day 7: Handy Haversacks
 - Day 8: Handheld Halting
 - Day 9: Encoding Error
+- Day 10: Adapter Array
+- Day 11: Seating System
+- Day 12: Rain Risk
+- Day 14: Docking Data
+- Day 15: Rambunctious Recitation
+- Day 16: Ticket Translation
 
 ## [2021](https://adventofcode.com/2021)
 - Day 1: Sonar Sweep
